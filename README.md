@@ -24,13 +24,13 @@ Each guide explains in detail how to:
 
 ## 🚀 Notebooks
 
-👉 **Action_Recognition (Clean Code).ipynb**  
-Clean and well-structured notebook containing the full implementation of the action recognition pipeline, suitable for study, reuse, and extension.
+👉 [Action_Recognition (Clean Code).ipynb](./Action_Recognition%20(Clean%20Code).ipynb)  
+Clean and well-structured notebook containing the full end-to-end implementation of the action recognition pipeline, following clean code and reproducible practices.
 
-👉 **Guia_Passo_a_Passo_(Português).ipynb**  
-Detailed explanation in Portuguese, focused on learning and conceptual understanding.
+👉 [Guia_Passo_a_Passo_(Português).ipynb](./Guia_Passo_a_Passo_(Português).ipynb)  
+Detailed step-by-step guide in Portuguese, focused on conceptual understanding and learning.
 
-👉 **Guide_Step_by_Step_(English).ipynb**  
+👉 [Guide_Step_by_Step_(English).ipynb](./Guide_Step_by_Step_(English).ipynb)  
 English version of the step-by-step guide, suitable for international audiences.
 
 ---
